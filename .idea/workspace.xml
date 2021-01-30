@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e7f1380-be13-4b6a-bfc8-688de179d7c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/spring-cloud-config-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-config-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-server/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612016274392</updated>
       <workItem from="1612016275696" duration="574000" />
-      <workItem from="1612016860931" duration="5542000" />
+      <workItem from="1612016860931" duration="5697000" />
     </task>
     <servers />
   </component>
