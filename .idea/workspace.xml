@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e7f1380-be13-4b6a-bfc8-688de179d7c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-client/src/main/java/com/taojishu/config/client/SpringCloudConfigClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-client/src/test/java/com/taojishu/config/client/SpringCloudConfigClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nnC49ZoLDuvj8shn6HThB3qxAM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-config-client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+        <option value="SwaggerCodegen" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudConfigClientApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="spring-cloud-taojishu" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="spring-cloud-taojishu" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taojishu.config.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taojishu.config.client.SpringCloudConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taojishu.config.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.taojishu.config.server.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringCloudConfigClientApplication" />
+        <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e7f1380-be13-4b6a-bfc8-688de179d7c2" name="Default Changelist" comment="" />
+      <created>1612016274392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612016274392</updated>
+      <workItem from="1612016275696" duration="574000" />
+      <workItem from="1612016860931" duration="5406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612018881917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612018881917" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1612018598353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612018598353" />
+    <state width="1293" height="259" key="GridCell.Tab.-1.bottom" timestamp="1612021611093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.-1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612021611093" />
+    <state width="1293" height="259" key="GridCell.Tab.-1.center" timestamp="1612021611093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.-1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612021611093" />
+    <state width="1293" height="259" key="GridCell.Tab.-1.left" timestamp="1612021611093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.-1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612021611093" />
+    <state width="1293" height="259" key="GridCell.Tab.-1.right" timestamp="1612021611093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612021611093" />
+    <state width="1293" height="259" key="GridCell.Tab.0.bottom" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.0.center" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.0.left" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.0.right" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.1.bottom" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.1.center" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.1.left" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state width="1293" height="259" key="GridCell.Tab.1.right" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="259" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.bottom" timestamp="1612022254223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254223" />
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.center" timestamp="1612022254223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254223" />
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.2.left" timestamp="1612022254225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254225" />
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.right" timestamp="1612022254223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="385" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612022254223" />
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.bottom" timestamp="1612021615830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612021615830" />
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.center" timestamp="1612021615830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612021615830" />
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.left" timestamp="1612021615830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612021615830" />
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.right" timestamp="1612021615830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1293" height="231" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612021615830" />
+    <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1612016354808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612016354808" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1612016678489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612016678489" />
+    <state x="759" y="297" key="chooseDestDirectoryDialog" timestamp="1612019458280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="297" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612019458280" />
+    <state x="-34" y="678" width="1309" height="299" key="dock-window-1" timestamp="1612021891718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-34" y="678" width="1309" height="299" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1612021891718" />
+    <state x="132" y="132" key="new project wizard" timestamp="1612018599871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="132" y="132" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612018599871" />
+  </component>
+</project>
