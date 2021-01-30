@@ -1,0 +1,14 @@
+/target
+.DS_Store
+.*.md.html
+~$*
+*.iml
+.settings
+.classpath
+.project
+.idea
+hs*
+logging*/
+/logging.conf.path_IS_UNDEFINED
+*.log
+/*/target
