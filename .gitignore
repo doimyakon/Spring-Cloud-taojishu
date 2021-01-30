@@ -1,0 +1,14 @@
+/target
+.DS_Store
+.*.md.html
+~$*
+*.iml
+.project
+.settings
+.classpath
+/bin/
+.idea
+hs_err_pid*
+logging.**/
+*.rdb
+*.log
